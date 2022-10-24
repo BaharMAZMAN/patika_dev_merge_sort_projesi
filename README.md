@@ -19,3 +19,5 @@ Bitiş [8,11,12,16,21,22] dizinin son hali.
 Big-O gösterimini yazınız.
 
 O(nlogn)
+
+https://www.patika.dev/tr
